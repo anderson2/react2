@@ -1,7 +1,7 @@
 {
   "name": "react2",
   "version": "0.1.0",
-  "homepage": "http://northwestdiscovery.s3-website-us-west-2.amazonaws.com/react2",
+  "homepage": "http://northwestdiscovery.s3-website-us-west-2.amazonaws.com/react2/",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"

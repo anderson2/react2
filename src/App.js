@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 
-import { Grid, Navbar, Jumbotron, Button,
-  Nav, NavItem, NavDropdown, MenuItem } from 'react-bootstrap';
+import { Jumbotron, Button } from 'react-bootstrap';
 
 import logo from './logo.svg';
 import langloisimage from './img/langlois-bridge-589px.jpg';
@@ -13,36 +12,13 @@ import yellowhouseimage from './img/yellow-house-619px.jpg';
 import './App.css';
 
 import Clock from './Clock.js';
+import PrimaryNav from './PrimaryNav.js';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-
-        <div>
-          <Navbar inverse fixedTop>
-            <Grid>
-              <Navbar.Header>
-                <Navbar.Brand>
-                  <a href="/">Van Gogh App</a>
-                </Navbar.Brand>
-                <Navbar.Toggle />
-              </Navbar.Header>
-
-              <Navbar.Collapse>
-                <Nav pullRight className="App-nav">
-                  <NavItem eventKey={1} href="https://facebook.github.io/react" target="blank">React Info</NavItem>
-                  <NavItem eventKey={1} href="https://facebook.github.io/react-native" target="blank">React Native Info</NavItem>
-                  <NavItem eventKey={1} href="https://www.github.com/anderson2" target="blank">About Rob</NavItem>
-
-                </Nav>
-
-              </Navbar.Collapse>
-
-            </Grid>
-          </Navbar>
-        </div>
-
+        <PrimaryNav name="Van Gogh Collection" />
         <Clock />
 
         <p className="App-intro">
