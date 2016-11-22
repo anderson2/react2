@@ -31,9 +31,9 @@ class App extends Component {
           <a 
             href="http://krollermuller.nl/en/vincent-van-gogh-bridge-at-arles-pont-de-langlois#Bridge%20at%20Arles%20(Pont%20de%20Langlois)"
             target="blank">            
-            Bridge at Arles (Pont de Langlois)
+            Langlois Bridge
           </a>
-          <p>March 1888 (oil) - Kröller-Müller Museum</p>
+          <p>Arles - March 1888 (oil) - Kröller-Müller Museum</p>
           </div>          
         </div>
 
@@ -41,11 +41,11 @@ class App extends Component {
           <img src={parisimage} alt="entrance to paris"/>
           <div className="image-info">
           <a 
-            href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Vincent_Van_Gogh_04.JPG/1280px-Vincent_Van_Gogh_04.JPG"
+            href="https://www.vangoghmuseum.nl/en/collection/d0420V1962"
             target="blank">            
-            Entrance to Paris
+            Gate in the Paris Ramparts
           </a>
-          <p>Vincent van Gogh, 1886 (watercolor)</p>
+          <p>Paris - Summer 1887 (watercolor) - Van Gogh Museum</p>
           </div>
        </div>
 
@@ -53,11 +53,11 @@ class App extends Component {
           <img src={rooftopsimage} alt="Rooftops"/>
           <div className="image-info">
           <a 
-            href="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vincent_Willem_van_Gogh_016.jpg/1280px-Vincent_Willem_van_Gogh_016.jpg"
+            href="http://vangoghletters.org/vg/letters/let251/letter.html"
             target="blank">            
             Rooftops
           </a>
-          <p>Vincent van Gogh, 1882 (watercolor)</p>
+          <p>The Hague, 1882 (watercolor)</p>
           </div>
        </div>
 
@@ -65,11 +65,11 @@ class App extends Component {
           <img src={orchardimage} alt="orchard"/>
           <div className="image-info">
           <a 
-            href="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Bloeiende_boomgaard_-_s0038V1962_-_Van_Gogh_Museum.jpg/1280px-Bloeiende_boomgaard_-_s0038V1962_-_Van_Gogh_Museum.jpg"
+            href="http://www.vangoghmuseum.nl/en/search/collection?q=orchard&artist=Vincent+van+Gogh&place=Arles&type=painting"
             target="blank">            
             Orchard in Blossom
           </a>
-          <p>Vincent van Gogh, 1889 (oil)</p>
+          <p>Arles, April 1889 (oil on canvas) - Van Gogh Museum</p>
           </div>
        </div>
 
@@ -77,11 +77,11 @@ class App extends Component {
           <img src={yellowhouseimage} alt="Yellow House"/>
           <div className="image-info">
           <a 
-            href="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg/1280px-Vincent_van_Gogh_-_The_yellow_house_%28%27The_street%27%29.jpg"
+            href="http://www.vangoghmuseum.nl/en/collection/s0032V1962"
             target="blank">            
-            Yellow House in Arles
+            The Yellow House
           </a>
-          <p>Vincent van Gogh, 1888 (oil on canvas)</p>
+          <p>Arles, September 1888 (oil on canvas) - Van Gogh Museum</p>
           </div>
        </div>
 
