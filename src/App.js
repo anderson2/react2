@@ -29,11 +29,11 @@ class App extends Component {
           <img src={langloisimage} alt="langlois bridge"/>
           <div className="image-info">
           <a 
-            href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Vincent_Willem_van_Gogh_-_Pont_de_Langlois_-_Kr%C3%B6ller-M%C3%BCller.jpg/1256px-Vincent_Willem_van_Gogh_-_Pont_de_Langlois_-_Kr%C3%B6ller-M%C3%BCller.jpg"
+            href="http://krollermuller.nl/en/vincent-van-gogh-bridge-at-arles-pont-de-langlois#Bridge%20at%20Arles%20(Pont%20de%20Langlois)"
             target="blank">            
-            Langlois Bridge
+            Bridge at Arles (Pont de Langlois)
           </a>
-          <p>Vincent van Gogh - Arles, 1888 (oil)</p>
+          <p>March 1888 (oil) - Kröller-Müller Museum</p>
           </div>          
         </div>
 
